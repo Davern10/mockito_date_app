@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1075955079394",
+    "project_id": "photo-frame---beautyapp",
+    "storage_bucket": "photo-frame---beautyapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1075955079394:android:f43e2dcfb527e217efe6bb",
+        "android_client_info": {
+          "package_name": "com.example.mockito_dating_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1075955079394-7fj1cp44h9tq7ru0cv26704dkg8bdro5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-fV8jpk8szRGSAJyLqUc-193inA2O7zg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1075955079394-7fj1cp44h9tq7ru0cv26704dkg8bdro5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
